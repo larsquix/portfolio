@@ -1,0 +1,37 @@
+body {
+  font-family: "Bebas Neue", sans-serif;
+}
+
+h1 {
+  color: #F593DE;
+}
+
+h2{
+  color: #F593DE;
+}
+.custom-background-image {
+  background-image: url('../images/background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+
+}
+
+.border-custom-color {
+  border-color: #9693F5;
+}
+
+
+nav ul li a {
+  color: #9693F5;
+  font-size: 20px;
+}
+
+nav ul li a:hover,
+nav ul li a:focus {
+  color: #F593DE;
+}
+
+nav ul li .list-separator {
+    background-color: #F593DE;
+}
