@@ -10,7 +10,7 @@ h2{
   color: #F593DE;
 }
 .custom-background-image {
-  background-image: url('../images/background.jpg');
+  background-image: url('../images/LQ-1.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -22,13 +22,14 @@ h2{
 }
 
 
-nav ul li a {
+a:link,
+a:visited {
   color: #9693F5;
   font-size: 20px;
 }
 
-nav ul li a:hover,
-nav ul li a:focus {
+a:hover,
+a:focus {
   color: #F593DE;
 }
 
